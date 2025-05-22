@@ -1,0 +1,12 @@
+Found 5615 images belonging to 7 classes.
+Found 1399 images belonging to 7 classes.
+Epoch 1/5
+175/175 [==============================] - 655s 4s/step - loss: 1.1816 - accuracy: 0.6647 - val_loss: 1.1262 - val_accuracy: 0.6693
+Epoch 2/5
+175/175 [==============================] - 467s 3s/step - loss: 1.1522 - accuracy: 0.6685 - val_loss: 1.1124 - val_accuracy: 0.6701
+Epoch 3/5
+175/175 [==============================] - 465s 3s/step - loss: 1.1346 - accuracy: 0.6686 - val_loss: 1.1209 - val_accuracy: 0.6693
+Epoch 4/5
+175/175 [==============================] - 469s 3s/step - loss: 1.1252 - accuracy: 0.6692 - val_loss: 1.1080 - val_accuracy: 0.6715
+Epoch 5/5
+175/175 [==============================] - 558s 3s/step - loss: 1.1220 - accuracy: 0.6679 - val_loss: 1.1196 - val_accuracy: 0.6679
